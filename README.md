@@ -83,7 +83,7 @@ df.to_csv('weight.csv', index=False)
 ![Output](s8.png)
 
 # Final data set:
-Output
+![Output](s9.png)
 
 # RESULT:
 Thus the outliers are detected and removed in the given file and the final data set is saved into the file.
